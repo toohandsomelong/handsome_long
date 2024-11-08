@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @handsome_long
 - 👀 I’m interested in Machine Learning and Artificial Intelligence
-- 🌱 I’m currently learning java, c#, python
+- 🌱 I’m currently learning Java, C#, Python
 - 💞️ I’m looking to collaborate on Unity
 - 📫 How to reach me:
   Github: Here, of course!
