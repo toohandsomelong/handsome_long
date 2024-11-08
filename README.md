@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @DontLewdMyLittleDurin
-- 👀 I’m interested in Game Engine
-- 🌱 I’m currently learning c++ and c#
+- 👋 Hi, I’m @handsome_long
+- 👀 I’m interested in Machine Learning and Artificial Intelligence
+- 🌱 I’m currently learning java, c#, python
 - 💞️ I’m looking to collaborate on Unity
 - 📫 How to reach me:
   Github: Here, of course!
